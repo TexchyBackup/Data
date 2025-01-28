@@ -1,4 +1,4 @@
-local fish = {
+return {
     ["Snowcap Algae"] = {FavouriteBait = "None", FavouriteTime = "None", Rarity = "Limited", Price = 50, XP = 20},
     ["Lingcod"] = {FavouriteBait = "Fish Head", FavouriteTime = "Day", Rarity = "Unusual", Price = 110, XP = 80},
     ["Deep Sea Fragment"] = {FavouriteBait = "None", FavouriteTime = "None", Rarity = "Fragment", Price = 0, XP = 0},
