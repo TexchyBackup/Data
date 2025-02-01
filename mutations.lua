@@ -1,6 +1,6 @@
 return {
     ["Blessed"] = {PriceMultiply = 10},
-    ["Electric Shock"] = {PriceMultiply = 0.5},
+    ["Electric Shock"] = {PriceMultiply = 3.5},
     ["Silver"] = {PriceMultiply = 1.6},
     ["Mosaic"] = {PriceMultiply = 1.5},
     ["Jolly"] = {PriceMultiply = 1.2},
@@ -14,6 +14,7 @@ return {
     ["Tentacle Surge"] = {PriceMultiply = 1.5},
     ["Kingâ€™s Blessing"] = {PriceMultiply = 1.5},
     ["Charred"] = {PriceMultiply = 0.5},
+    ["Studded"] = {PriceMultiply = 2},
     ["Blighted"] = {PriceMultiply = 3},
     ["Aureate"] = {PriceMultiply = 4},
     ["Amber"] = {PriceMultiply = 0.5},
