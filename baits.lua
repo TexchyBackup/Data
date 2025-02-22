@@ -28,3 +28,4 @@ return {
     ["Bagel"] = {LureSpeed = 0, Luck = 25, Rarity = "Common", GeneralLuck = 0, Resilience = 15},
     ["Truffle Worm"] = {LureSpeed = -10, Luck = 300, Rarity = "Legendary", GeneralLuck = 0, Resilience = 0}
 }
+
