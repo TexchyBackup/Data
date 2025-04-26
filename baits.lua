@@ -1,4 +1,4 @@
-return {
+return {{
 	["Glass Beetle"] = { LureSpeed = 30, Luck = 125, Rarity = "Rare", GeneralLuck = 0, Resilience = 30 },
 	["Worm"] = { LureSpeed = 15, Luck = 25, Rarity = "Common", GeneralLuck = 0, Resilience = 0 },
 	["Golden Tentacle"] = { LureSpeed = 50, Luck = 150, Rarity = "Legendary", GeneralLuck = 0, Resilience = 20 },
@@ -21,7 +21,10 @@ return {
 	["Magnet"] = { LureSpeed = 0, Luck = 200, Rarity = "Unusual", GeneralLuck = 0, Resilience = 0 },
 	["Neuro Slug"] = { LureSpeed = -20, Luck = 90, Rarity = "Legendary", GeneralLuck = 0, Resilience = 60 },
 	["Coal"] = { LureSpeed = 0, Luck = 45, Rarity = "Rare", GeneralLuck = 0, Resilience = -10 },
+	["Hourglass Bait"] = { LureSpeed = 5, Luck = 150, Rarity = "Mythical", GeneralLuck = 0, Resilience = 40 },
 	["Shrimp"] = { LureSpeed = 0, Luck = 45, Rarity = "Uncommon", GeneralLuck = 0, Resilience = -5 },
+	["Colossal Ink Bait"] = { LureSpeed = 5, Luck = 150, Rarity = "Mythical", GeneralLuck = 0, Resilience = 40 },
+	["Stud Bait"] = { LureSpeed = 50, Luck = 150, Rarity = "Legendary", GeneralLuck = 0, Resilience = 20 },
 	["Luminous Larva"] = { LureSpeed = 10, Luck = 200, Rarity = "Exotic", GeneralLuck = 0, Resilience = 50 },
 	["Coral"] = { LureSpeed = 20, Luck = 0, Rarity = "Unusual", GeneralLuck = 0, Resilience = 20 },
 	["Gale Grub"] = { LureSpeed = 30, Luck = 75, Rarity = "Common", GeneralLuck = 0, Resilience = -5 },
