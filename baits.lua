@@ -1,4 +1,4 @@
-return {{
+return {
 	["Glass Beetle"] = { LureSpeed = 30, Luck = 125, Rarity = "Rare", GeneralLuck = 0, Resilience = 30 },
 	["Worm"] = { LureSpeed = 15, Luck = 25, Rarity = "Common", GeneralLuck = 0, Resilience = 0 },
 	["Golden Tentacle"] = { LureSpeed = 50, Luck = 150, Rarity = "Legendary", GeneralLuck = 0, Resilience = 20 },
